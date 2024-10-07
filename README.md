@@ -10,10 +10,12 @@ When they click on services it shows what services the hotel offer
 
 
 when the click on rooms it shows tthe type of rooms existed followed by description of each type plus photo.In case any of these rooms is approprite for the customer he clicks book now and continue the instructions following .
+
 ![Screenshot 2024-10-07 230445](https://github.com/user-attachments/assets/35ddb920-fc46-46a9-9fad-14ec72dfcc31) 
 ![Screenshot 2024-10-07 230501](https://github.com/user-attachments/assets/4acf6428-2a14-4c56-86f0-bf36a92d66ea) 
 
 
  There is also contact us button which allows users to contact us in case there is a problem or in case they want to report something
+ 
  ![Screenshot 2024-10-07 230519](https://github.com/user-attachments/assets/bebdc8d2-97ec-42d2-8ef0-3ded8799dc42)
 
