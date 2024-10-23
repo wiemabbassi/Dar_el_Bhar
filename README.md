@@ -14,7 +14,7 @@ when the click on rooms it shows tthe type of rooms existed followed by descript
 ![Screenshot 2024-10-07 230445](https://github.com/user-attachments/assets/35ddb920-fc46-46a9-9fad-14ec72dfcc31) 
 ![Screenshot 2024-10-07 230501](https://github.com/user-attachments/assets/4acf6428-2a14-4c56-86f0-bf36a92d66ea) 
 
-In case any of these rooms is approprite for the user he clicks book now and continue filling the following instructions(It's necessary to mention that the PHP files  handles different functionalities, including database management, user registration and reservation processing)
+In case any of these rooms is approprite for the user he clicks book now and continue filling the following instructions
 
 ![image](https://github.com/user-attachments/assets/9d3db452-94d7-4ba1-9096-ed0712ef7e31)
 
